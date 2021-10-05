@@ -1,0 +1,72 @@
+{
+        "Entrées" : [
+        {
+            "nom": "Escargots à la crème d'ail",
+            "desc": "",
+            "nbPersonnes":1,
+            "prix": 32
+        },
+
+        {
+            "nom": "Foie gras de canard poêlés aux coings",
+            "desc": "gâteau et infusion de coing à la verveine",
+            "nbPersonnes":2,
+            "prix": 34
+        },
+
+        {
+            "nom": "",
+            "desc": "",
+            "nbPersonnes":"",
+            "prix": ""
+        }
+    ],
+
+
+    "Poissons" : [
+        {
+            "nom": "Sandre à la peau croustillante",
+            "desc": "fondue d'échalottes, sauce au vin rouge",
+            "nbPersonnes":1,
+            "prix": 42
+        },
+
+        {
+            "nom": "Morue",
+            "desc": "",
+            "nbPersonnes":"",
+            "prix": ""
+        },
+
+        {
+            "nom": "",
+            "desc": "",
+            "nbPersonnes":"",
+            "prix": ""
+        }
+    ],
+
+    "Viandes" : [
+        {
+            "nom": "",
+            "desc": "",
+            "nbPersonnes":"",
+            "prix": ""
+        },
+
+        {
+            "nom": "",
+            "desc": "",
+            "nbPersonnes":"",
+            "prix": ""
+        },
+
+        {
+            "nom": "",
+            "desc": "",
+            "nbPersonnes":"",
+            "prix": ""
+        }
+    ]
+
+}
